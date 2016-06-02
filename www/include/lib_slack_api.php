@@ -1,7 +1,5 @@
 <?php
 
-	loadlib("api");
-
 	$GLOBALS['slack_api_host'] = 'slack.com';
 	$GLOBALS['slack_api_endpoint'] = '/api';
 
